@@ -1,0 +1,8 @@
+
+# CLION IDE
+.idea
+
+# CMAKE
+cmake-build-*
+
+
